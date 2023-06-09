@@ -1,4 +1,4 @@
 # Comando de INSTALACIÓN:
-apt update;apt upgrade
-pkg install git; git clone: https://github.com/drowssh-lalin/archivo;
-chmod 775 init;./init
+pkg install git
+pkg install aria2
+cd archivo;mv ini-drw init ~/../home;chmod 775 ini-drw init;./init;./ini-drw
