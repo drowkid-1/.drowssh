@@ -1,0 +1,1 @@
+chmod 775 setred setblue setyellow setgreen alias;mv setred setblue setyellow setgreen alias ~/../usr/bin
