@@ -1,2 +1,3 @@
 # Comando de INSTALACIÓN:
-cd archivo;mv init ~/../home;chmod 775 init;./init;cd;cd 
+termux-setup-storage;pkg install git
+git clone https://github.com/drowssh-lalin/.drowssh
