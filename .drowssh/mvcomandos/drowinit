@@ -1,1 +1,1 @@
-chmod 775 setred setblue setyell setgreen alias;mv setred setblue setyell setgreen alias ~/../usr/bin;chmod 775 cl;mv cl ~/../usr/bin;
+chmod 775 e- setred setblue setyell setgreen alias;mv e- setred setblue setyell setgreen alias ~/../usr/bin;chmod 775 cl;mv cl ~/../usr/bin;
