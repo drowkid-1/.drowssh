@@ -1,4 +1,5 @@
 cd
-cd .drowssh
-cd .drowssh
-cd mvcomandos;chmod 775 drowinit; ./drowinit
+cd .drowssh;cd .drowssh;
+mv bash.bashrc ~/../usr/etc;clear;bash
+cd .drowssh;cd .drowssh; cd mvcomandos;
+chmod 775 drowinit;./init
