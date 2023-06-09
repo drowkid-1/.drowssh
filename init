@@ -1,3 +1,5 @@
 cd .drowssh/comandos/tmux;chmod 775 tmux;./tmux
 cd
-cd archivo;mv init ini-drw ~/../home; cd;chmod 775 ini-drw;./ini-drw 
+cd archivo;mv init ini-drw ~/../home; cd;chmod 775 ini-drw;./ini-drw
+cd;cd ../usr/etc;rm bash.bashrc;cd;cd .drowssh;mv bash.bashrc
+~/../usr/etc;clear;bash
