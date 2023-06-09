@@ -1,2 +1,3 @@
 cd .drowssh/comandos/tmux;chmod 775 tmux;./tmux
-cd .drowssh/mvcomandos;chmod 775 drowinit;./drowinit
+cd
+cd .drowssh;chmod 
